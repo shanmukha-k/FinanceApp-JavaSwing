@@ -1,24 +1,18 @@
-# FinanceApp-JavaSwing
+## Getting Started
 
-A desktop finance management application built using **Java Swing** for the GUI, **JDBC** for database connectivity, and **MySQL** for data storage.
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Features
+## Folder Structure
 
-- User registration and login system.
-- Users can add or remove money from their accounts.
-- Admin dashboard to view all transactions.
-- Secure password management.
-- Real-time balance updates after each transaction.
+The workspace contains two folders by default, where:
 
-## Tech Stack
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-- **Frontend**: Java Swing
-- **Backend**: Java, JDBC
-- **Database**: MySQL
-- **UI Theme**: FlatLaf (Flat IntelliJ Theme)
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-## Installation
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/shanmukh-k/FinanceApp-JavaSwing.git
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
